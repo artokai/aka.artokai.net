@@ -6,5 +6,8 @@
   "twitter": "https://twitter.com/artokai",
   "linkedin": "https://www.linkedin.com/in/artokaitosaari",
   
-  "azurl": "https://github.com/artokai/azurl"
+  "azurl": "https://github.com/artokai/azurl",
+  
+  "pnp/core": "https://github.com/OfficeDev/PnP-Sites-Core",
+  "pnp/jscore": "https://github.com/OfficeDev/PnP-JS-Core"
 }
