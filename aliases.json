@@ -9,5 +9,8 @@
   "azurl": "https://github.com/artokai/azurl",
   
   "pnp/core": "https://github.com/OfficeDev/PnP-Sites-Core",
-  "pnp/jscore": "https://github.com/OfficeDev/PnP-JS-Core"
+  "pnp/jscore": "https://github.com/OfficeDev/PnP-JS-Core",
+  
+  "espc16/session": "https://www.sharepointeurope.com/events/developing-modular-sharepoint-solutions-using-typescript/"
+  
 }
