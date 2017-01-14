@@ -1,0 +1,20 @@
+{
+  "name": "aka.artokai.net",
+  "version": "1.0.0",
+  "description": "Simple url alias service written in Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artokai/aka.artokai.net.git"
+  },
+  "author": "Arto Kaitosaari <arto.kaitosaari@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artokai/aka.artokai.net/issues"
+  },
+  "homepage": "https://github.com/artokai/aka.artokai.net#readme"
+}
