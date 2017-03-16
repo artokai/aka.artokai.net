@@ -13,5 +13,7 @@
   
   "espc16/session": "https://www.sharepointeurope.com/events/developing-modular-sharepoint-solutions-using-typescript/",
   "espc16/slides": "https://doc.co/gxH8gw",
-  "espc16/demos": "https://github.com/artokai/samples/tree/master/ESPC16"
+  "espc16/demos": "https://github.com/artokai/samples/tree/master/ESPC16",
+  
+  "docs/aspdotnetcore": "https://docs.microsoft.com/en-us/aspnet/core/"
 }
